@@ -1,0 +1,6 @@
+framework module Pods_Z_a_nTests {
+  umbrella header "Pods-ŽánTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
